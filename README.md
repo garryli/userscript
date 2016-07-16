@@ -1,2 +1,4 @@
 # userscript
-userscripts to use with GreaseMonkey/TamperMonkey for better experience
+userscripts to use with Greasemonkey/Tampermonkey for better experience
+
+
