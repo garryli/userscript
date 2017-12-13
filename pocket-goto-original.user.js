@@ -4,7 +4,7 @@
 // @description Opens the original link instead of the pocket View! (please use Ctrl+click)
 // @include     http://getpocket.com/*
 // @include     https://getpocket.com/*
-// @version     1
+// @version     1.1
 // ==/UserScript==
 
 (function() {
